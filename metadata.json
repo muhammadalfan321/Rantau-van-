@@ -1,0 +1,6 @@
+{
+  "name": "Rantau Van",
+  "description": "Satu perjalanan van dalam satu hari menyusuri panorama danau pagi, pulau senja, dermaga malam, dan padang rumput.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
